@@ -3,12 +3,7 @@ In this project, building a **Faqs App**
 ### Refer to the video below:
 
 <br/>
-<div style="text-align: center;">
-  <video controls autoplay loop style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-    <source src="https://res.cloudinary.com/dloyya5ji/video/upload/v1713422093/b6jzsa9ftinuavi55sp9.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://res.cloudinary.com/dloyya5ji/video/upload/v1713422093/b6jzsa9ftinuavi55sp9.mp4
 <br/>
 
 ### Design Files
