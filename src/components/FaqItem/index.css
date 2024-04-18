@@ -1,0 +1,24 @@
+.item-card {
+  border-radius: 8px;
+  border: 2px solid #d7dae6;
+  margin: 1rem;
+  padding: 1rem;
+  list-style-type: none;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.con {
+  display: flex;
+  align-items: row;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .img {
+    height: 30px;
+    width: 30px;
+  }
+}
