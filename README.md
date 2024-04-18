@@ -3,7 +3,9 @@ In this project, building a **Faqs App**
 ### Refer to the video below:
 
 <br/>
-https://res.cloudinary.com/dloyya5ji/video/upload/v1713422093/b6jzsa9ftinuavi55sp9.mp4
+<div style="text-align: center;">
+<img src="https://assets.ccbp.in/frontend/content/react-js/faqs-output-v3.gif" alt="faqs-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)" />
+</div>
 <br/>
 
 ### Design Files
